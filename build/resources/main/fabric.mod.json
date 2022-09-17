@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "bettercopper",
-  "version": "${version}",
+  "version": "1.0-SNAPSHOT",
   "name": "Bettercopper",
   "description": "为铜增加一些奇奇怪怪的设定。",
   "authors": [
